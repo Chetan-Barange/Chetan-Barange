@@ -36,13 +36,3 @@
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
-
----
-
-### 📊 GitHub Stats:  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)  
-
----
-
-Feel free to copy this Markdown and replace placeholder links (like `yourgithubusername` or `#`) with your actual GitHub and portfolio links. Let me know if you’d like further additions or tweaks!
