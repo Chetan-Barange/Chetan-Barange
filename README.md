@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Chetan-Barange/Chetan-Barange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 I’m currently working on Python
+ 
+ 🌱 I’m currently exploring GenAI 
+ 
+ 👯 I’m looking to work with you 
+ 
+ 🤔 I’m looking for help with opportunity lands me to a full-time job
+ 
+ 💬 Ask me about Software Developement / Engineering
+ 
+ 📫 How to reach me: 
+       Email: chetanbarangecb@gmail.com
+       LinkedIn: linkedin.com/in/chetan-barange-265633201
+       Mobile No.: 7666331959
+       
+ 😄 Pronouns: He/Him
+ 
+ ⚡ Fun fact: I once led a team that contributed to a world-record event—proving that coding isn’t the only way I make an impact! 🎉
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
