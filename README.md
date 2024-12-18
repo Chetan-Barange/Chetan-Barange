@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on Python
  
- 🌱 I’m currently exploring GenAI 
+ 🌱 I’m currently exploring Software Development (MERN,Python)
  
  👯 I’m looking to work with you 
  
