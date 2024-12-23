@@ -1,19 +1,34 @@
-# Hi 👋, I'm Chetan Barange  
-**A passionate Software Developer from India**  
 
- 🔭 I’m currently working on Python
- 
- 🌱 I’m currently exploring Software Development (MERN,Python)
- 
- 👯 I’m looking to work with you 
- 
- 🤔 I’m looking for help with opportunity lands me to a full-time job
- 
- 💬 Ask me about Software Developement / Engineering
- 
- 📫 **How to reach me**:  
-  **Email**: [chetanbarangecb@gmail.com](mailto:chetanbarangecb@gmail.com)  
-  **Phone**: +91 7666331959 
+Hi 👋, I'm Chetan Barange
+A Passionate Software Developer from India
+
+🌟 About Me:
+I am a dedicated and enthusiastic software developer with a knack for crafting efficient and innovative solutions. My expertise lies in Python and the MERN stack, and I am constantly exploring new technologies to expand my skill set.
+
+🔭 Current Focus:
+
+Building robust applications using Python
+Delving deeper into the MERN Stack for full-stack development
+🌱 What I’m Exploring:
+
+Advanced Software Development techniques
+Learning and implementing modern best practices in engineering
+👯 Let’s Collaborate!
+
+I’m eager to contribute to dynamic projects and grow alongside talented teams.
+🤝 Seeking Opportunities:
+
+Looking for a full-time role where I can apply my skills and grow as a professional.
+💬 Let’s Talk About:
+
+Software Development
+Engineering best practices
+Creating impactful applications
+📫 Reach Out to Me:
+
+Email: chetanbarangecb@gmail.com
+Phone: +91 7666331959
+Let’s connect and create something amazing together! 🚀
        
  😄 Pronouns: He/Him
  
