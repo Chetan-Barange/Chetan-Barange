@@ -2,28 +2,23 @@
 Hi 👋, I'm Chetan Barange
 A Passionate Software Developer from India
 
-🌟 About Me:
-I am a dedicated and enthusiastic software developer with a knack for crafting efficient and innovative solutions. My expertise lies in Python and the MERN stack, and I am constantly exploring new technologies to expand my skill set.
+🌟 About Me: I am a dedicated and enthusiastic software developer with a knack for crafting efficient and innovative solutions. My expertise lies in Python and the MERN stack and I am constantly exploring new technologies to expand my skill set.
 
-🔭 Current Focus:
+🔭 Current Focus: Building robust applications using Python Delving deeper into the MERN Stack for full-stack development
 
-Building robust applications using Python
-Delving deeper into the MERN Stack for full-stack development
-🌱 What I’m Exploring:
+🌱 What I’m Exploring: Advanced Software Development techniques Learning and implementing modern best practices in engineering
 
-Advanced Software Development techniques
-Learning and implementing modern best practices in engineering
 👯 Let’s Collaborate!
-
 I’m eager to contribute to dynamic projects and grow alongside talented teams.
+
 🤝 Seeking Opportunities:
-
 Looking for a full-time role where I can apply my skills and grow as a professional.
-💬 Let’s Talk About:
 
-Software Development
-Engineering best practices
-Creating impactful applications
+💬 Let’s Talk About:
+#Software Development 
+#Engineering best practices
+#Creating impactful applications
+
 📫 Reach Out to Me:
 
 Email: chetanbarangecb@gmail.com
