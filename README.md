@@ -1,48 +1,102 @@
+# Hi, I'm Chetan Barange 👋
 
-Hi 👋, I'm Chetan Barange
-A Passionate Software Developer from India
+📍 Pune, Maharashtra, India
 
-🌟 About Me: I am a dedicated and enthusiastic software developer with a knack for crafting efficient and innovative solutions. My expertise lies in Python and the MERN stack and I am constantly exploring new technologies to expand my skill set.
+I’m a **Technical Solutions Consultant** with a background in **software development, automation, and client-facing technical solutions**. I enjoy bridging the gap between **business requirements and technical implementation**, helping teams and clients design scalable and efficient systems.
 
-🔭 Current Focus: Building robust applications using Python Delving deeper into the MERN Stack for full-stack development
+With experience in **React, Laravel APIs, Python automation, and data workflows**, I focus on building practical solutions that solve real-world problems.
 
-🌱 What I’m Exploring: Advanced Software Development techniques Learning and implementing modern best practices in engineering
+---
 
-👯 Let’s Collaborate!
-I’m eager to contribute to dynamic projects and grow alongside talented teams.
+💼 Professional Focus
 
-🤝 Seeking Opportunities:
-Looking for a full-time role where I can apply my skills and grow as a professional.
+* Solution Consulting & Technical Discovery
+* API Integrations & System Workflows
+* Data Extraction & Automation
+* Business Requirement Analysis
+* Client Engagement & Technical Presentations
 
-💬 Let’s Talk About:
-#Software Development 
-#Engineering best practices
-#Creating impactful applications
+---
 
-📫 Reach Out to Me:
+## 🛠️ Technical Skills
 
-Email: chetanbarangecb@gmail.com
-Phone: +91 7666331959
-Let’s connect and create something amazing together! 🚀
-       
- 😄 Pronouns: He/Him
- 
- ⚡ Fun fact: I once led a team that contributed to a world-record event—proving that coding isn’t the only way I make an impact! 🎉
+**Languages**
+Python • SQL • JavaScript
 
+**Frameworks & Libraries**
+React.js • Laravel • Scrapy • Playwright
 
-### 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-barange-265633201) 
+**Tools & Technologies**
+REST APIs • Git • Postman • JSON • VS Code
 
-### ⚙️ Languages and Tools:  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)  
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+**Database**
+MySQL
+
+**Cloud**
+AWS
+
+**CRM & Business Tools**
+Salesforce • Zoho • LeadSquared
+
+---
+
+## 🚀 Professional Experience
+
+### Technical Sales Associate – Engineering Solutions
+
+**Indovance Inc | Pune | 2025 – Present**
+
+* Work closely with engineering teams to design **technical outsourcing and engineering solutions** for US & Canada-based clients.
+* Conduct **technical discovery discussions** to understand client requirements and translate them into structured solution proposals.
+* Present technical workflows, capabilities, and solution value propositions in **client-facing engagements**.
+* Analyze CRM pipeline data and generate insights to improve **conversion efficiency and forecasting accuracy**.
+* Collaborate with cross-functional teams across **sales, engineering, and operations**.
+
+---
+
+### Software Developer
+
+**WhiteCode Technology Solutions | Pune**
+
+* Built and integrated **RESTful APIs** connecting React frontend with Laravel backend services.
+* Developed configurable modules for **admissions, departments, and reporting workflows**.
+* Implemented dynamic UI components including **MenuBuilder, file managers, and rich text editors**.
+* Troubleshot production issues involving **API communication, state management, and performance**.
+
+---
+
+## 📊 Technical Project
+
+### Enterprise Web Data Automation & Analytics
+
+Designed a **web automation system using Python (Scrapy + Playwright)** for dynamic JavaScript-heavy platforms.
+
+Key features:
+
+* Advanced scraping workflows
+* Middleware and decorators for modular architecture
+* Pagination and dynamic content handling
+* Structured JSON data pipelines
+* Automated analytics reporting for price intelligence and product availability
+
+---
+
+## 🏆 Achievements
+
+* **Rising Star – Bronze Award** at Indovance Annual Conclave for business impact and solution contributions.
+* Served as **Sprint Leader** during project sprints, coordinating team deliverables.
+* **Class Representative (MCA)** for 2 academic years, strengthening leadership and communication skills.
+* Led coordination team for the **Largest Human Portrait World Record Event** at Zeal Institute.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [Chetan.barange05@gmail.com](mailto:Chetan.barange05@gmail.com)
+📍 Pune, Maharashtra
+
+🔗 LinkedIn: (Add your LinkedIn profile link here)
+
+---
+
+⭐ *Interested in technology, automation, and solving real-world business problems through practical solutions.*
