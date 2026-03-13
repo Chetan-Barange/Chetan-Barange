@@ -95,8 +95,7 @@ Key features:
 📧 Email: [Chetan.barange05@gmail.com](mailto:Chetan.barange05@gmail.com)
 📍 Pune, Maharashtra
 
-🔗 LinkedIn: https://www.linkedin.com/in/chetan-
-barange-265633201/
+🔗 LinkedIn: https://www.linkedin.com/in/chetan-barange-265633201
 
 ---
 
